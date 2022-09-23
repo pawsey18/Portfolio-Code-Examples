@@ -1,0 +1,6 @@
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\bin\Debug\Model.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\bin\Debug\Model.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\obj\Debug\Model.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Model\obj\Debug\Model.pdb

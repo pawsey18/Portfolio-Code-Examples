@@ -1,0 +1,13 @@
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Repository.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Repository.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\DAL.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Model.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Types.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\DAL.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Model.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\bin\Debug\Types.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\obj\Debug\Repository.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Repository\obj\Debug\Repository.pdb

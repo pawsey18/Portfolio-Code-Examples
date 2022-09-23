@@ -1,0 +1,15 @@
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Service.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Service.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\DAL.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Model.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Repository.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Types.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\DAL.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Model.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Repository.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\bin\Debug\Types.pdb
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\obj\Debug\Service.csproj.CopyComplete
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\obj\Debug\Service.dll
+C:\src\capstone\capstonealpha\Capstone-Alpha\Service\obj\Debug\Service.pdb
